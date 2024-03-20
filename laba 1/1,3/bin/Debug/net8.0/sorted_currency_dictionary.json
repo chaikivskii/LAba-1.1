@@ -1,0 +1,17 @@
+{
+  "FIAT": [
+    "EUR",
+    "JPY",
+    "USD"
+  ],
+  "Cryptocurrency": [
+    "BTC",
+    "ETH",
+    "XRP"
+  ],
+  "Commodity Money": [
+    "GOLD",
+    "PLATINUM",
+    "SILVER"
+  ]
+}
